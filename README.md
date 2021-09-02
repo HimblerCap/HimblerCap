@@ -18,7 +18,7 @@
 
 <h2>👀 GitHub Stats</h2>
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=github_dark&show_icons=true)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=HimblerCap&theme=github_dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimblerCap&theme=github_dark&show_icons=true)
 
