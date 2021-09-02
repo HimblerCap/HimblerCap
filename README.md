@@ -1,6 +1,6 @@
 <h2> Hi!👋 I'm Himbler Capcha 👨‍💻 </h2>
 
-![Renato Capcha Banner](./banner.jpg)
+![Renato Capcha Banner](./Himbler Capcha.jpg)
 
 - 👨‍🎓 I'm electronic enginer student
 - 💓 I'm passionate about creating techonology to solve real problems, shared tecnology knowledge ans buld community.
