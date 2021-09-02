@@ -1,8 +1,5 @@
 <h2> Hi!👋 I'm Himbler Capcha 👨‍💻 </h2>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HimblerCap.HimblerCap)
-![Follow](https://img.shields.io/github/followers/{HimblerCap}.svg?style=social&label=Follow&maxAge=2592000)
-
 - 👨‍🎓 I'm electronic enginer student
 - 💓 I'm passionate about creating techonology to solve real problems, shared tecnology knowledge ans buld community.
 - 👀 I'm interesed in Artificial Intelligence and Data Science 
