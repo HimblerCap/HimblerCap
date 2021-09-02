@@ -1,7 +1,5 @@
-<h2> Hi!👋 I'm Himbler Capcha 👨‍💻 
+<h2> Hi!👋 I'm Himbler Capcha 👨‍💻 </h2>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HimblerCap.HimblerCap)
-![Follow](https://img.shields.io/github/followers/{HimblerCap}.svg?style=social&label=Follow&maxAge=2592000)
 
 - 👨‍🎓 I'm electronic enginer student
 - 💓 I'm passionate about creating techonology to solve real problems, shared tecnology knowledge ans buld community.
@@ -9,7 +7,7 @@
 - 🌱I'm currently learning about Recurrent Neural Networks and Web Scrapping.
 - 🧰 Some tecnology I enjoy working with include Keras, Scikit-learn, Google Cloud and Matlab.
 
-<h2> Languages and tools
+<h2> Languages and tools </h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -19,13 +17,13 @@
 ![Microsoft](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
-<h2>👀 GitHub Stats
+<h2>👀 GitHub Stats </h2>
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=HimblerCap&count_private=true&show_icons=true&hide=contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimblerCap&layout=compact)
 
-<h2> 📫 How to reach me:
+<h2> 📫 How to reach me: </h2>
 
 <a href="<https://www.linkedin.com/in/himbler-renato-capcha-campos-08b40b200/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:himblerrenato2013@gmail.com">![himblerrenato2013@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
