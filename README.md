@@ -3,7 +3,7 @@
 ![Renato Capcha Banner](https://github.com/HimblerCap/HimblerCap/blob/main/Himbler%20Capcha.jpg)
 
 - 👨‍🎓 I'm electronic enginer student
-- 💓 I'm passionate about creating techonology to solve real problems, shared tecnology knowledge ans buld community.
+- 💓 I'm passionate about creating techonology to solve real problems, shared tecnology knowledge ans build community.
 - 👀 I'm interesed in Artificial Intelligence and Data Science 
 - 🌱I'm currently learning about Recurrent Neural Networks and Web Scrapping.
 - 🧰 Some tecnology I enjoy working with include Keras, Scikit-learn, Google Cloud and Matlab.
